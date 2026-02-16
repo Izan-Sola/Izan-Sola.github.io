@@ -80,14 +80,6 @@ Messages and metadata are stored only as long as necessary for functionality and
 
 No long-term collection of personal data unless explicitly stated.
 
-5. Security
-
-We implement reasonable measures to protect your data. However, we cannot guarantee complete security.
-
-6. Your Rights
-
-You may request deletion of your data by contacting [Your Email or Contact].
-
 You are responsible for the content you submit via the bot.
 
 7. Third-Party Services
